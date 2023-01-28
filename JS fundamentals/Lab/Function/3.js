@@ -12,3 +12,4 @@ function repeatString(string, count) {
 
 }
 result = repeatString('abc', 3);
+console.log(result);

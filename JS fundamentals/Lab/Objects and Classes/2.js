@@ -12,3 +12,4 @@ city({
     population: 1162358,
     country: "Bulgaria",
     postCode: "4000"
+});

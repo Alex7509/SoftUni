@@ -5,3 +5,4 @@ function solve(N) {
     }
     
 }
+solve(5);

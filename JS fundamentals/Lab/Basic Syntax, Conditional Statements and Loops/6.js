@@ -32,3 +32,4 @@ function solve(day, age) {
     console.log(`${price}$`);
 
 }
+solve('Holiday', 19);

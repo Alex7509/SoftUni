@@ -17,3 +17,4 @@ function solve(age) {
     }
 
 }
+solve(100);

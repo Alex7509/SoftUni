@@ -15,3 +15,4 @@ function solve(arr, result) {
         }
     }
 }
+solve([14, 20, 60, 13, 7, 19, 8], 27);

@@ -9,3 +9,4 @@ function solve(array) {
     console.log(array[0]);
 
 }
+solve([2, 10, 3]);

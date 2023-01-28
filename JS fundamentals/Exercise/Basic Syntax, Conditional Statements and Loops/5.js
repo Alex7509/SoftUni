@@ -7,3 +7,5 @@ function solve(year) {
     }
 
 }
+solve(1984);
+solve(2003); 

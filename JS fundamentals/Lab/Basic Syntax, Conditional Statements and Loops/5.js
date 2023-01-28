@@ -28,3 +28,4 @@ function solve(num) {
     }
 
 }
+solve(13);

@@ -7,3 +7,4 @@ function sortedBy2Criteria(input) {
     console.log(sorted.join('\n'));
 
 }
+sortedBy2Criteria(['alpha', 'beta', 'gamma'])

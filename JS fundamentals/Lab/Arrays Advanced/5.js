@@ -8,3 +8,4 @@ function processOddNumbers(input) {
     console.log(output.join(' '));
 
 }
+processOddNumbers([3, 0, 10, 4, 7, 3])

@@ -21,3 +21,4 @@ function factorial(num1, num2) {
     console.log(result);
 
 }
+factorial(5, 2);

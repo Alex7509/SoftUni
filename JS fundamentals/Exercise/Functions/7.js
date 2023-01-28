@@ -17,3 +17,4 @@ function NxNMatrix(number) {
     console.log(resultArr.join('\n'));
 
 }
+NxNMatrix(7);

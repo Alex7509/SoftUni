@@ -22,3 +22,4 @@ function searchForANumber(numbers, commands) {
     console.log(`Number ${search} occurs ${count} times.`);
 
 }
+searchForANumber([5, 2, 3, 4, 1, 6], [5, 2, 3])

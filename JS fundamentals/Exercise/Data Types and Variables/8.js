@@ -13,3 +13,4 @@ function solve(number, operator, anotherNumber) {
     console.log(result.toFixed(2));
 
 }
+solve(5, '+', 10)

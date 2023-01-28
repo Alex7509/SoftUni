@@ -5,3 +5,4 @@ function solve(pagesNumber, readIn1Hour, days) {
     console.log(hoursPerDay);
 
 }
+solve(212, 20, 2);

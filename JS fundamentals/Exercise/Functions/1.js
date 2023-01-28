@@ -4,3 +4,4 @@ function samllestNumber(first, second, third) {
 
     console.log(result);
 }
+samllestNumber(2, 5, 3)

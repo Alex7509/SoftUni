@@ -7,3 +7,4 @@ function solve(input) {
     console.log(result);
 
 }
+solve(['a', 'b', 'c', 'd', 'e'])

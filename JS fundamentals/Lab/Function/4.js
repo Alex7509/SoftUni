@@ -22,3 +22,7 @@ function orders(order, quantity) {
     console.log(result.toFixed(2));
 
 }
+orders("water", 5);
+
+
+

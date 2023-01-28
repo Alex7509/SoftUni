@@ -21,3 +21,6 @@ function inventory(input) {
         console.log(`items => ${hero.inventory}`);
     });
 }
+inventory(['Isacc / 25 / Apple, GravityGun',
+    'Derek / 12 / BarrelVest, DestructionSword',
+    'Hes / 1 / Desolator, Sentinel, Antara'])

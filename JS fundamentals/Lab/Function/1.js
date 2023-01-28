@@ -21,3 +21,4 @@ function formatGrade(grade) {
         console.log(`${result} (${grade.toFixed(2)})`);
     }
 }
+formatGrade(2.33);

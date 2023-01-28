@@ -9,3 +9,4 @@ function convertToJson(name, lastName, hairColor){
     console.log(JSON.stringify(personInfo));
 
 }
+convertToJson('George', 'Jones', 'Brown')

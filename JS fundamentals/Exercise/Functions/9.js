@@ -15,3 +15,4 @@ function loadingBar(number) {
 
     }
 }
+loadingBar(30)

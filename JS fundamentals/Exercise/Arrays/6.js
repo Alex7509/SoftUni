@@ -22,3 +22,4 @@ function solve(arr) {
     console.log(output);
 
 }
+solve([1, 2, 3, 3]);

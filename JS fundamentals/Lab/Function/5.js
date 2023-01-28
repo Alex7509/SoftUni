@@ -15,3 +15,5 @@ function simpleCalculator(numOne, numTwo, operator) {
     console.log(result);
     
 }
+simpleCalculator(5, 5, 'multiply');
+

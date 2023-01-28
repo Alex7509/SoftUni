@@ -13,3 +13,4 @@ function solve(num) {
 
 
 }
+solve(999);

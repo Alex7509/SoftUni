@@ -4,3 +4,4 @@ function solve(meters) {
     console.log(result);
 
 }
+solve(798);

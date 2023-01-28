@@ -7,3 +7,4 @@ function listOfProducts(products) {
     }
 
 }
+listOfProducts(['Potatoes', 'Tomatoes', 'Onions', 'Apples']);

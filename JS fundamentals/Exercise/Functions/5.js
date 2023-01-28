@@ -12,3 +12,4 @@ function palindromeIntegers(input) {
         }
     }
 }
+palindromeIntegers([123, 323, 421, 121]);

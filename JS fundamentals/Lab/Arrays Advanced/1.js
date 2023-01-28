@@ -16,3 +16,4 @@ function sumFirstAndLast(arr) {
     console.log(sum);
 
 }
+sumFirstAndLast(['20', '30', '40'])

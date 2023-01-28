@@ -14,3 +14,4 @@ function characterInRange(characterOne, characterTwo) {
     console.log(result);
 
 }
+characterInRange('#', ':')

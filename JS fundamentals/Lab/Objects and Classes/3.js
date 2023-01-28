@@ -7,3 +7,4 @@ function convertToObject(jsonStr) {
     }
 
 }
+convertToObject('{"name": "George", "age": 40, "town": "Sofia"}')

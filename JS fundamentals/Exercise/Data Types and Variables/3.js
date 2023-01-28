@@ -4,3 +4,4 @@ function solve(town, population, area) {
     console.log(result);
 
 }
+solve('Sofia', 1286383, 492);

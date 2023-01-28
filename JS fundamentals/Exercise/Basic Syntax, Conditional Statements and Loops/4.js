@@ -39,3 +39,5 @@ function solve(groupCount, typeOfGroup, day) {
     console.log(`Total price: ${price.toFixed(2)}`);
 
 }
+solve(30, "Students", "Sunday");
+solve(40, "Regular", "Saturday");

@@ -6,3 +6,4 @@ function solve(grade) {
     }
 
 }
+solve(4.40);

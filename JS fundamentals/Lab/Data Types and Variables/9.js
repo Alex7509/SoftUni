@@ -16,3 +16,4 @@ function solve(n) {
     }
 
 }
+solve(15)

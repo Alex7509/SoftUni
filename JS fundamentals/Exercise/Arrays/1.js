@@ -24,3 +24,4 @@ function solve(input) {
     console.log(newArrSum);
 
 }
+solve([5, 15, 23, 56, 35])

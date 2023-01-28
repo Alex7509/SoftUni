@@ -5,3 +5,4 @@ function mathPower(num, power) {
 
 }
 result = mathPower(2, 8);
+console.log(result);

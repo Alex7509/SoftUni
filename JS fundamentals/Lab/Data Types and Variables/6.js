@@ -5,3 +5,4 @@ function solve(band, album, song) {
     console.log(`The plate was rotated ${result} times.`);
 
 }
+solve('Black Sabbath', 'Paranoid', 'War Pigs')

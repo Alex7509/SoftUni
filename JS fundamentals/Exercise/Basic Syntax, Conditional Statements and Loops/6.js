@@ -10,3 +10,4 @@ function solve(start, end) {
     console.log(`Sum: ${sum}`);
 
 }
+solve(5, 10);

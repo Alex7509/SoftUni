@@ -9,3 +9,4 @@ function solve(parameter) {
     }
 
 }
+solve(18);

@@ -8,3 +8,4 @@ function solve(number) {
     console.log(sum);
 
 }
+solve(245678);

@@ -8,3 +8,4 @@ function solve(country) {
     }
 
 }
+solve('Bulgaria');

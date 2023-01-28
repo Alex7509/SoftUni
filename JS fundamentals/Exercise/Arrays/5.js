@@ -23,3 +23,5 @@ function solve(input) {
     console.log(newArr.join(' '));
 
 }
+
+solve([1, 4, 3, 2])

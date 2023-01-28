@@ -15,3 +15,4 @@ function solve(day) {
     }
 
 }
+solve(7);

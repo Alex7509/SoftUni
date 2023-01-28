@@ -39,3 +39,4 @@ function passwordValidator(password) {
         console.log('Password is valid');
     }
 }
+passwordValidator('Pa$s$s');

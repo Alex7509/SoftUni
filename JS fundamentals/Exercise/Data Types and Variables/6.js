@@ -5,3 +5,4 @@ function solve(letter1, letter2, letter3) {
     console.log(output);
 
 }
+solve('A', 'B', 'C');

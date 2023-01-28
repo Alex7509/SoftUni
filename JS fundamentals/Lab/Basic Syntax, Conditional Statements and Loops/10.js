@@ -4,3 +4,4 @@ function solve(m, n) {
     }
 
 }
+solve(6, 2);

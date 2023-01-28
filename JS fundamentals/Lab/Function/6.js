@@ -9,3 +9,4 @@ function signChek(numOne, numTwo, numThree) {
     }
 
 }
+signChek(5, 12, -15)

@@ -14,3 +14,4 @@ function solve(n) {
     }
 
 }
+solve(3);

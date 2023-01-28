@@ -8,3 +8,4 @@ function solve(count, numbers) {
     console.log(output);
 
 }
+solve(3, [10, 20, 30, 40, 50]);

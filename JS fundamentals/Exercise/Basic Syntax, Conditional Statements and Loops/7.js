@@ -9,3 +9,4 @@ function solve(n) {
     }
 
 }
+solve(25);

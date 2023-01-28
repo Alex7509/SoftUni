@@ -15,3 +15,4 @@ function negativeOrPosituveNumbers(arr) {
     console.log(newArr.join('\n'));
 
 }
+negativeOrPosituveNumbers(['7', '-2', '8', '9']);

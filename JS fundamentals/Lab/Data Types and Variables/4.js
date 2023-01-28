@@ -10,3 +10,4 @@ function solve(num1, num2, num3) {
     console.log(`${sum} - ${type}`);
 
 }
+solve(9, 100, 1.1);

@@ -16,3 +16,4 @@ function solve(number) {
     }
     console.log(`The number is divisible by ${divisible}`);
 }
+solve(30);

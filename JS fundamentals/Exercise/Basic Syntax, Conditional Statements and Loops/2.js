@@ -8,3 +8,4 @@ function solve(number, percision) {
     console.log(parseFloat(output));
 
 }
+solve(10.5, 3);

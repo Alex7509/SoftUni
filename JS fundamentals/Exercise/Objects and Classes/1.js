@@ -11,3 +11,7 @@ function employees(input) {
     }
     
 }
+employees(['Silas Butler',
+    'Adnaan Buckley',
+    'Juan Peterson',
+    'Brendan Villarreal'])

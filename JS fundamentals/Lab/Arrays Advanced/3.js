@@ -9,3 +9,4 @@ function firstAndLastKNumbers(arr) {
     console.log(firstKElement.join(' '));
     console.log(secondKElement.join(' '));
 }
+firstAndLastKNumbers([3, 6, 7, 8, 9])

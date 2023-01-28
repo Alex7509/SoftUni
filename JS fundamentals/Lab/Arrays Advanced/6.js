@@ -6,3 +6,4 @@ function smallestTwoNumbers(input) {
     console.log(output.join(' '));
 
 }
+smallestTwoNumbers([30, 15, 50, 5]);

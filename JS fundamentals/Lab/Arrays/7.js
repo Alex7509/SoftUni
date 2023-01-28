@@ -15,3 +15,5 @@ function solve(arr1, arr2) {
     console.log(`Arrays are identical. Sum: ${sum}`);
 
 }
+solve(['10', '20', '30'],
+    ['10', '20', '30']);

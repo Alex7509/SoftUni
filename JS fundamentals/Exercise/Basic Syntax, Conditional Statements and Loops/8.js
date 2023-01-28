@@ -4,3 +4,4 @@ function solve(number) {
     }
 
 }
+solve(5); 

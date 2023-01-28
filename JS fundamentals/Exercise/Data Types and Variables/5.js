@@ -4,3 +4,4 @@ function solve (pound){
     console.log(dollars);
     
 }
+solve(80);

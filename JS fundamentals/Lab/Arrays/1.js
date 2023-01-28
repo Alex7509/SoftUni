@@ -4,3 +4,4 @@ function solve(numbers) {
     console.log(sum);
 
 }
+solve([20, 30, 40]);

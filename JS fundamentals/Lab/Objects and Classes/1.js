@@ -9,3 +9,5 @@ function personinfo(firstName, lastName, age) {
     return info;
     
 }
+personinfo("Peter", "Pan", "20")
+

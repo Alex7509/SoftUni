@@ -17,3 +17,4 @@ function lastKNumbersSequence(n, k) {
     console.log(resultArr.join(' '))
 
 }
+lastKNumbersSequence(6, 3);
