@@ -1,8 +1,7 @@
 function songs(input) {
 
-    let songsCount = input.shift();
-    let printType = input.pop();
-    let newArr = [];
+    const numberOfSongs = input.shift();
+    const typeList = input.pop();
 
     class Song {
         constructor(type, name, time) {
@@ -10,21 +9,19 @@ function songs(input) {
             this.name = name;
             this.time = time;
         }
+
+        output() {
+            console.log(this.name);
+        }
     }
 
     for (const line of input) {
         let [type, name, time] = line.split('_');
+        time = Number(time);
 
-        let song = new Song(type, name, time);
-
-        newArr.push(song);
-    }
-
-    for (let i = 0; i < newArr.length; i++) {
-        let line = newArr[i];
-
-        if (printType === line.type || printType === 'all') {
-            console.log(line.name);
+        if (type === typeList || typeList === 'all'){
+            let song = new Song(type, name, time);
+            song.output();
         }
     }
 

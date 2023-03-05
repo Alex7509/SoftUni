@@ -1,15 +1,11 @@
 function employees(input) {
 
-    let employeesInfo = {};
+   let employees = {};
 
-    input.forEach(person => {
-        employeesInfo[person] = person.length;
-    });
-
-    for (const key in employeesInfo) {
-        console.log(`Name: ${key} -- Personal Number: ${employeesInfo[key]}`);
-    }
-    
+    for (const name of input) {
+        employees[name] = name.length;
+        console.log(`Name: ${name} -- Personal Number: ${employees[name]}`); 
+    }  
 }
 employees(['Silas Butler',
     'Adnaan Buckley',
